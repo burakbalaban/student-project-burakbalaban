@@ -1,0 +1,64 @@
+\documentclass[10pt]{article}
+\usepackage{color}
+\usepackage{tikz}
+
+% Tikz settings optimized for causal graphs.
+% Just copy-paste this part
+\usetikzlibrary{shapes,decorations,arrows,calc,arrows.meta,fit,positioning}
+\tikzset{
+    -Latex,auto,node distance =1 cm and 1 cm,semithick,
+    state/.style ={circle, draw, inner sep=0.06cm,fill,node contents={}},
+    point/.style = {circle, draw, inner sep=0.06cm,fill=none,node contents={}},
+    bidirected/.style={Latex-Latex,dashed},
+    el/.style = {inner sep=2pt, align=left, sloped}
+}
+\tikzstyle{h}=[circle,draw, inner sep=2]
+\begin{document}
+Causal Graph for Events in Countries Under Embargo
+\newline
+\begin{tikzpicture}
+    \node (E) at (0,0) [label=left:$E_{emb}$,state];
+    \node (D) at (2,1) [label=above:$D_{illegal}$,point];
+    \node (A) at (2,-1) [label=below:$A_{now}$,point];
+    \node (P) at (4,0) [label=above:P,point];
+    \node (I) at (6,0) [label=above:I,point];
+    \node (R) at (8,0) [label=above:R,state];
+    \path (E) edge (D);
+    \path (E) edge (A);
+    \path (D) edge (P);
+    \path (A) edge (P);
+    \path (P) edge (I);
+    \path (I) edge (R);
+\end{tikzpicture}
+\newline
+E = Event in countries under embargo\newline
+D = Demand for illegal weapons\newline
+A = Removal or continuation of Embargo\newline
+P = Profit of the company\newline
+I \ = Investor behavior\newline
+R = Return of company\newline
+
+Causal Graph for Events in Countries Outside Embargo
+\newline
+\begin{tikzpicture}
+    \node (E) at (0,0) [label=left:$E_{noemb}$,state];
+    \node (D) at (2,1) [label=above:$D_{total}$,point];
+    \node (A) at (2,-1) [label=below:$A_{future}$,point];
+    \node (P) at (4,0) [label=above:P,point];
+    \node (I) at (6,0) [label=above:I,point];
+    \node (R) at (8,0) [label=above:R,state];
+    \path (E) edge (D);
+    \path (E) edge (A);
+    \path (D) edge (P);
+    \path (A) edge (P);
+    \path (P) edge (I);
+    \path (I) edge (R);
+\end{tikzpicture}
+\newline
+E = Event in countries outside embargo\newline
+D = Demand for weapons\newline
+A = Future likelihood of Embargo\newline
+P = Profit of the company\newline
+I \ = Investor behavior\newline
+R = Return of company\newline
+\end{document}
