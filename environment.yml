@@ -10,4 +10,3 @@ dependencies:
 - scipy
 - pysal
 - pip:
-  - grmpy
