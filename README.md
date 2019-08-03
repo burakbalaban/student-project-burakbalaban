@@ -1,13 +1,55 @@
-# Student project template
+# Student project
+### by Burak Balaban
+This notebook includes the replication of DellaVigna, S., & La Ferrara, E. (2010). [Detecting illegal arms trade.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.295.5439&rep=rep1&type=pdf) American Economic Journal: Economic Policy, 2(4), 26-57.
+All data and the code can be found on [AEA webpage.](https://www.aeaweb.org/articles?id=10.1257/pol.2.4.26)
 
-This is a template for student projects.
+## Table of Contents
+Motivation
+ - Causal Graphs and Identification
+ - Selection of Countries, Events and Companies
+- Countries under Embargo Selection Criteria
+- Event Selection
+ - Companies
+- Company clustering
+- Return
+ - Main focus and Method
+ 
+Examination of Abnormal Returns
+ - Figure 1 - Corruption distinction
+ - Figure 2 - Events
+ - Table 1 - Benchmark Table
+ - Table 2 - Various Measures of Cost of Illegal Trade
+ - Table 3 - Event Selection
+ - Figure 3 - Timing of Effect
+ - Table 4 - Company Characteristics
+ - Table 5 - Events in Non-embargo Countries
+ 
+Robustness Check
+ - Robustness Table
+ - Timing Effects
+ - Placebo Treatment - Market Returns
+ - Temporal Placebo
+ 
+Average Treatment Effect
+ - Model
+ - Calibration
+- Embargo probabilities as a function of previous embargo state
+- Probit specification for effect of conflict events on Embargo probabilities
 
-We use [GitHub Classroom](https://classroom.github.com) to administrate our student projects. So, please be sure to sign up for a [GitHub Account](http://github.com). Please use the [Jupyter Notebook](https://github.com/HumanCapitalAnalysis/student-project-template/blob/master/student_project.ipynb) to work on your project. You can look at this example on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HumanCapitalAnalysis/student-project-template/master?filepath=student_project.ipynb). To ensure full reproducibility of your project, be sure to maintain [Travis CI](https://travis-ci.org) as your continuous integration service.
+Extentions
+ - Event's Importance and Surprise Values Visualization
+ - Inspection of odd behaviour among companies
+- Graphical representation
+ - Critical Assesment
 
-## Frequently asked questions and answers
+Travis CI is maintained for reproducibility[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-template.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/student-project-template)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-template/blob/master/LICENSE)
 
-* *Where can I look for publications that provide the data behind their research?* Some journals provide the data for their published articles as data supplements directly on their website. In addition, the [Replication Wiki](http://replication.uni-goettingen.de/wiki/index.php/Main_Page)  and the [Harvard Dataverse](https://dataverse.harvard.edu) compile a lot such information.
+## References
 
-* *What are other useful resources for research data?* There is a tremendous amount of data available online. For example, MDRC provides a host of data files for public use [here](https://www.mdrc.org/available-public-use-files) from the evaluation of public policy initiatives.
-
-[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-template.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/student-project-template) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-template/blob/master/LICENSE)
+* *Bondi, Loretta. 2004. “Externalities of the Arms Trade.” In It’s Legal but It Ain’t Right, ed. Nikos Passas and Neva Goodwin, 43–73. Ann Arbor, MI: University of Michigan Press.
+* *DellaVigna, S., & La Ferrara, E. (2010). Detecting illegal arms trade. American Economic Journal: Economic Policy, 2(4), 26-57.
+* *Dunne, J. Paul, and Eamon Surry. 2006. "Arms Production." In SIPRI Yearbook 2006: Armaments, Disarmament and International Security, 387–418. Oxford, UK: Oxford University Press.
+* *Fama, E. F. 1995. "Random walks in stock market prices." Financial analysts journal, 51(1), 75-80.
+* *Kaufmann, Daniel, Aart Kraay, and Massimo Mastruzzi. 2006. “Governance Matters V: Aggregate and Individual Governance Indicators for 1996–2005.” World Bank Policy Research Working Paper 4012.
+* *Djankov, Simeon, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer. 2008. “The Law and Economics of Self-Dealing.” Journal of Financial Economics, 88(3): 430–65.
