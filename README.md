@@ -42,14 +42,14 @@ Extentions
 - Graphical representation
  - Critical Assesment
 
-Travis CI is maintained for reproducibility[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-template.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/student-project-template)
+Travis CI is maintained for reproducibility[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-template.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/student-project-burakbalaban)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-template/blob/master/LICENSE)
 
 ## References
 
-* *Bondi, Loretta. 2004. ìExternalities of the Arms Trade.î In Itís Legal but It Ainít Right, ed. Nikos Passas and Neva Goodwin, 43ñ73. Ann Arbor, MI: University of Michigan Press.
+* *Bondi, Loretta. 2004. ‚ÄúExternalities of the Arms Trade.‚Äù In It‚Äôs Legal but It Ain‚Äôt Right, ed. Nikos Passas and Neva Goodwin, 43‚Äì73. Ann Arbor, MI: University of Michigan Press.
 * *DellaVigna, S., & La Ferrara, E. (2010). Detecting illegal arms trade. American Economic Journal: Economic Policy, 2(4), 26-57.
-* *Dunne, J. Paul, and Eamon Surry. 2006. "Arms Production." In SIPRI Yearbook 2006: Armaments, Disarmament and International Security, 387ñ418. Oxford, UK: Oxford University Press.
+* *Dunne, J. Paul, and Eamon Surry. 2006. "Arms Production." In SIPRI Yearbook 2006: Armaments, Disarmament and International Security, 387‚Äì418. Oxford, UK: Oxford University Press.
 * *Fama, E. F. 1995. "Random walks in stock market prices." Financial analysts journal, 51(1), 75-80.
-* *Kaufmann, Daniel, Aart Kraay, and Massimo Mastruzzi. 2006. ìGovernance Matters V: Aggregate and Individual Governance Indicators for 1996ñ2005.î World Bank Policy Research Working Paper 4012.
-* *Djankov, Simeon, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer. 2008. ìThe Law and Economics of Self-Dealing.î Journal of Financial Economics, 88(3): 430ñ65.
+* *Kaufmann, Daniel, Aart Kraay, and Massimo Mastruzzi. 2006. ‚ÄúGovernance Matters V: Aggregate and Individual Governance Indicators for 1996‚Äì2005.‚Äù World Bank Policy Research Working Paper 4012.
+* *Djankov, Simeon, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer. 2008. ‚ÄúThe Law and Economics of Self-Dealing.‚Äù Journal of Financial Economics, 88(3): 430‚Äì65.
