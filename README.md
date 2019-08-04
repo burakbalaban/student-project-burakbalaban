@@ -48,9 +48,9 @@ Travis CI is tried to be maintained for reproducibility but it timeouts due to a
 
 ## References
 
-* *Bondi, Loretta. 2004. “Externalities of the Arms Trade.” In It’s Legal but It Ain’t Right, ed. Nikos Passas and Neva Goodwin, 43–73. Ann Arbor, MI: University of Michigan Press.
-* *DellaVigna, S., & La Ferrara, E. (2010). Detecting illegal arms trade. American Economic Journal: Economic Policy, 2(4), 26-57.
-* *Dunne, J. Paul, and Eamon Surry. 2006. "Arms Production." In SIPRI Yearbook 2006: Armaments, Disarmament and International Security, 387–418. Oxford, UK: Oxford University Press.
-* *Fama, E. F. 1995. "Random walks in stock market prices." Financial analysts journal, 51(1), 75-80.
-* *Kaufmann, Daniel, Aart Kraay, and Massimo Mastruzzi. 2006. “Governance Matters V: Aggregate and Individual Governance Indicators for 1996–2005.” World Bank Policy Research Working Paper 4012.
-* *Djankov, Simeon, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer. 2008. “The Law and Economics of Self-Dealing.” Journal of Financial Economics, 88(3): 430–65.
+* Bondi, Loretta. 2004. “Externalities of the Arms Trade.” In It’s Legal but It Ain’t Right, ed. Nikos Passas and Neva Goodwin, 43–73. Ann Arbor, MI: University of Michigan Press.
+* DellaVigna, S., & La Ferrara, E. (2010). Detecting illegal arms trade. American Economic Journal: Economic Policy, 2(4), 26-57.
+* Dunne, J. Paul, and Eamon Surry. 2006. "Arms Production." In SIPRI Yearbook 2006: Armaments, Disarmament and International Security, 387–418. Oxford, UK: Oxford University Press.
+* Fama, E. F. 1995. "Random walks in stock market prices." Financial analysts journal, 51(1), 75-80.
+* Kaufmann, Daniel, Aart Kraay, and Massimo Mastruzzi. 2006. “Governance Matters V: Aggregate and Individual Governance Indicators for 1996–2005.” World Bank Policy Research Working Paper 4012.
+* Djankov, Simeon, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer. 2008. “The Law and Economics of Self-Dealing.” Journal of Financial Economics, 88(3): 430–65.
