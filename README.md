@@ -1,8 +1,8 @@
 # Student project
 ### by Burak Balaban
 This notebook includes the replication of DellaVigna, S., & La Ferrara, E. (2010). [Detecting illegal arms trade.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.295.5439&rep=rep1&type=pdf) American Economic Journal: Economic Policy, 2(4), 26-57.
-All data and the code can be found on [AEA webpage.](https://www.aeaweb.org/articles?id=10.1257/pol.2.4.26)
-
+All data and the code can be found on [AEA webpage](https://www.aeaweb.org/articles?id=10.1257/pol.2.4.26).
+The notebook can be accessed via [this link](), also can be viewed in [https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png](https://nbviewer.jupyter.org/github/HumanCapitalAnalysis/student-project-burakbalaban/blob/master/student_project.ipynb).
 ## Table of Contents
 Motivation
  - Causal Graphs and Identification
@@ -42,7 +42,8 @@ Extentions
 - Graphical representation
  - Critical Assesment
 
-Travis CI is maintained for reproducibility [![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-burakbalaban.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/student-project-burakbalaban)
+Travis CI is tried to be maintained for reproducibility but it timeouts due to an unknown reason. [![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-burakbalaban.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/student-project-burakbalaban)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-burakbalaban/blob/master/LICENSE)
 
 ## References
