@@ -13,5 +13,5 @@ install:
   - source activate student_project
 
 script:
-  
+  - travis_wait python utils/travis_runner.py
 
