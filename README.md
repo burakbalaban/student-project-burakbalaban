@@ -2,7 +2,7 @@
 ### by Burak Balaban
 This notebook includes the replication of DellaVigna, S., & La Ferrara, E. (2010). [Detecting illegal arms trade.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.295.5439&rep=rep1&type=pdf) American Economic Journal: Economic Policy, 2(4), 26-57.
 All data and the code can be found on [AEA webpage](https://www.aeaweb.org/articles?id=10.1257/pol.2.4.26).
-The notebook can be accessed via [this link](), also can be viewed in[![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/HumanCapitalAnalysis/student-project-burakbalaban/blob/master/student_project.ipynb).
+The notebook can be accessed via [this link](), also can be viewed in [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/HumanCapitalAnalysis/student-project-burakbalaban/blob/master/student_project.ipynb).
 ## Table of Contents
 Motivation
  - Causal Graphs and Identification
