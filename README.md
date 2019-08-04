@@ -42,7 +42,7 @@ Extentions
 - Graphical representation
  - Critical Assesment
 
-Travis CI is tried to be maintained for reproducibility but it timeouts due to an unknown reason sometimes. [![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-burakbalaban.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/student-project-burakbalaban)
+Travis CI is tried to be maintained for reproducibility [![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-burakbalaban.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/student-project-burakbalaban)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-burakbalaban/blob/master/LICENSE)
 
